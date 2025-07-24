@@ -1,0 +1,7 @@
+a = input('Enter')
+b = input('Enter')
+print(eval("a + b"))
+print(eval("a is b"))
+print(eval("a * b"))
+print(eval("a / b"))
+print(eval("a % b"))
